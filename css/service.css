@@ -1,0 +1,78 @@
+*
+{
+margin:0;
+padding:0;
+}
+.dropdown-menu
+{
+	 display: none;
+  position: absolute;
+  background-color: grey;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+.carousel-inner img{
+	height:600;
+	max-width:100%;
+	border:1px;
+	padding:3px;
+}
+.carousel-caption p{
+	color:black;
+	font-family:sans-serif;
+	font-size:25px;
+}
+.navbar-brand img 
+{
+	border-radius:50%;
+}
+.text-center
+{
+	text-shadow: 2px 2px 5px red;
+}
+p{
+	font-family:  Charcoal, serif;
+}
+.row img{
+	border-radius:10%;
+	width:80%;
+}
+.my-3
+{
+	background: linear-gradient(to right, #FFA500, #FF1400);
+}
+.my-2
+{
+	background-color:black;
+}
+.display-7{
+color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+.display-6
+{
+text-shadow: 0 0 3px #FF0000, 0 0 5px black;
+}
+.far{
+	padding-left: 50px;
+}
+.btn{
+	
+background-color: black;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+.btn:hover{
+background-color: #8B0000;
+}	
+.policy		
+{
+padding-left: 50px;
+}
+nav{
+	padding-left: 50px;
+}
