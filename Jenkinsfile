@@ -5,7 +5,7 @@ pipeline {
         stage('Build') {
             steps {
                 echo 'Building..'
-                git branch: 'main', url: 'https://github.com/shivamchauhan-svg/project.git'
+                
             }
         }
         stage('Test') {
